@@ -4,7 +4,7 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Ceļo"
+title: "Emuārs"
 description: > # this means to ignore newlines until "email:"
 
 email: viktors.smdarbs@skola.lv
@@ -13,7 +13,7 @@ logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/jok.jpg"
+cover: "https://gti.images.tshiftcdn.com/10893493/x/0/glaciers-in-iceland-facts-map-tours-amp-glacier-activities-1.jpg?ixlib=php-3.3.0&w=883"
 
 name: 'Viktors'
 author: 'Viktors'
