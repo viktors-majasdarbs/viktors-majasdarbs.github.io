@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: viktors.smdarbs@skola.lv
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "https://cdn.costumewall.com/wp-content/uploads/2015/09/walter-white-tn.webp"
 float_logo: true # true, false (default)
 
 # blog cover
